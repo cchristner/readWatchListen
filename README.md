@@ -10,9 +10,9 @@ general magic - doc
 
 the billion dollar code - doc
 
------------------------------
+-----------------------
 - Business docs/bios: -
------------------------------
+-----------------------
 x Electric City (2021) by Thomas Hager | About Ford and Edison's attempt to create a utopian "electric city" of tomorrow on the Tennessee River (Read: 2022)
 
 American Colossus (2010) by H.W. Brands | About the rise of American capitalism and industrial titans during the Gilded Age (1865-1900). Chronicles figures like J.P. Morgan, John D. Rockefeller, and Andrew Carnegie.
@@ -39,9 +39,9 @@ The First Tycoon (2009) by T.J. Stiles | Biography of Cornelius Vanderbilt. Won 
 
 The Fish That Ate the Whale (2012) by Rich Cohen | Biography of Sam Zemurray and the banana trade. Chronicles the rise of United Fruit Company and banana republics.
 
--------------------------
+-------------------
 - maker reference -
--------------------------
+-------------------
 Makers guide to building modular systems:
 https://docs.google.com/document/d/1gU2LaqGkPCLuOm6oFMFCC_tdET1LmUB0WMUYgAmvb0w/edit
 https://hackaday.com/2024/03/08/thats-a-lot-of-building-systems/
@@ -49,7 +49,7 @@ https://hackaday.com/2024/03/08/thats-a-lot-of-building-systems/
 How radios work
 https://lcamtuf.substack.com/p/radios-how-do-they-work
 
----------------------------
+---------------------
 - systems reference -
----------------------------
+---------------------
 computer systems - https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
