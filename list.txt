@@ -1,16 +1,50 @@
-# readWatchListen
 Things I have read, should read, or will read (or watch or listen to).
 
 -------------------------
 computer history
 -------------------------
+
 https://github.com/watson/awesome-computer-history
+
 general magic - doc
+
 the billion dollar code - doc
+
+----------------
+- historical -
+----------------
+
+The Pentagon's Brain () by Annie Jacobson
+
+Operation Paperclip () by Annie Jacobson
+
+-------------
+- science -
+-------------
+
+Life Ascending () by Nick Land
+
+------------
+- health -
+------------
+
+Outlive () by Peter Attia
 
 -----------------------------
 Business docs/bios
 -----------------------------
+
+x Elon Musk () by Walter Isaacson
+
+x Build () by Tony Fadell
+
+x Invention () by James Dyson
+
+x The Innovators () by Walter Isaacson
+
+Skunkworks () by Ben Rich and Leo Janos
+
+Chip War () by Chris Miller
 
 x Electric City (2021) by Thomas Hager | About Ford and Edison's attempt to create a utopian "electric city" of tomorrow on the Tennessee River (Read: 2022)
 
@@ -37,6 +71,36 @@ Dealers of Lightning (1999) by Michael Hiltzik | History of Xerox PARC and its t
 The First Tycoon (2009) by T.J. Stiles | Biography of Cornelius Vanderbilt. Won the Pulitzer Prize and National Book Award.
 
 The Fish That Ate the Whale (2012) by Rich Cohen | Biography of Sam Zemurray and the banana trade. Chronicles the rise of United Fruit Company and banana republics.
+
+--------------------------------
+- other bios/non-fiction -
+--------------------------------
+
+Every Tools a Hammer () by Adam Savage
+
+Kitchen Confidential () by Anthony Bourdain
+
+Permanent Record () by Ed Snowden
+
+-------------
+- finance -
+-------------
+
+The Four Pillars of Investing () by William J. Bernstein
+
+The Intelligent Investor () by Ben Graham
+
+------------
+- fiction -
+------------
+
+Mycroft and Sherlock: The Empty Birdcage
+
+Neuromancer () by William Gibson
+
+makers () by cory Doctorow
+
+James Moriarty. Consulting Criminal () by Andy Weir
 
 -------------------------
 maker reference
