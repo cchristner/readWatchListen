@@ -112,6 +112,9 @@ https://hackaday.com/2024/03/08/thats-a-lot-of-building-systems/
 How radios work:
 https://lcamtuf.substack.com/p/radios-how-do-they-work
 
+Guide to mech keyboard switches:
+https://www.theremingoat.com/blog/beginners-guide
+
 ---------------------
 systems reference
 ---------------------
