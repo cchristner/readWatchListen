@@ -26,6 +26,8 @@ Blitzed
 
 Life Ascending () by Nick Lane
 
+Nexus: A Brief History of Information Networks from the Stone Age to AI (2024) by Yuval Noah Harari
+
 ------------
 - health -
 ------------
@@ -83,9 +85,9 @@ The Fish That Ate the Whale (2012) by Rich Cohen | Biography of Sam Zemurray and
 
 Thinking Fast and Slow () by Daniel Kahneman
 
-Freakonomics
+Freakonomics (2005) by Levitt and Dubner
 
-When to Rob a Bank
+When to Rob a Bank (2015) by Levitt and Dubner
 
 --------------------------------
 - other bios/non-fiction -
@@ -109,7 +111,11 @@ The Four Pillars of Investing () by William J. Bernstein
 
 The Intelligent Investor () by Ben Graham
 
-Keynes and Hayek
+Keynes Hayek: The Clash That Defined Modern Economics (2011) by Nicholas Wapshott
+
+Grand Pursuit: The Story of Economic Genius (2011) by Sylvia Nasar
+
+Parasites, Pathogens, and Progress: Diseases and Economic Development (2011) by McGuire and Coelho
 
 ------------
 - fiction -
@@ -125,7 +131,9 @@ Mycroft and Sherlock: The Empty Birdcage
 
 Neuromancer () by William Gibson
 
-makers () by cory Doctorow
+makers () by Cory Doctorow
+
+Red Team Blues () Cory Doctorow
 
 James Moriarty. Consulting Criminal () by Andy Weir
 
