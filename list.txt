@@ -1,7 +1,7 @@
 Things I have read, should read, or will read (or watch or listen to).
 
 -------------------------
-computer history
+- computer history -
 -------------------------
 
 https://github.com/watson/awesome-computer-history
@@ -14,11 +14,11 @@ the billion dollar code - doc
 - historical -
 ----------------
 
-The Pentagon's Brain () by Annie Jacobson
+x The Pentagon's Brain () by Annie Jacobson
 
-Operation Paperclip () by Annie Jacobson
+x Operation Paperclip () by Annie Jacobson
 
-Blitzed
+x Blitzed
 
 -------------
 - science -
@@ -35,7 +35,7 @@ Nexus: A Brief History of Information Networks from the Stone Age to AI (2024) b
 Outlive () by Peter Attia
 
 -----------------------------
-Business docs/bios
+- Business docs/bios - 
 -----------------------------
 
 x Elon Musk () by Walter Isaacson
@@ -46,13 +46,15 @@ x Invention () by James Dyson
 
 x The Innovators () by Walter Isaacson
 
+x Kochland (2019) by Christopher Leonard | History of Koch Industries and its influence on American business. Covers seven decades of Koch Industries' growth.
+
+x Electric City (2021) by Thomas Hager | About Ford and Edison's attempt to create a utopian "electric city" of tomorrow on the Tennessee River (Read: 2022)
+
 Skunkworks () by Ben Rich and Leo Janos
 
 Chip War () by Chris Miller
 
 The Meat Racket: The Secret Takeover of America's Food Business (2014) by Christopher Leonard 
-
-x Electric City (2021) by Thomas Hager | About Ford and Edison's attempt to create a utopian "electric city" of tomorrow on the Tennessee River (Read: 2022)
 
 American Colossus (2010) by H.W. Brands | About the rise of American capitalism and industrial titans during the Gilded Age (1865-1900). Chronicles figures like J.P. Morgan, John D. Rockefeller, and Andrew Carnegie.
 
@@ -63,8 +65,6 @@ Saudi Inc. (2018) by Ellen R. Wald | History of Aramco and Saudi Arabia's oil in
 Zero to One (2014) by Peter Thiel with Blake Masters | About building breakthrough companies and creating new things. Based on Thiel's Stanford startup course notes.
 
 Cable Cowboy (2002) by Mark Robichaux | Biography of John Malone and the rise of the cable TV industry. Chronicles the creation of TCI and modern cable industry.
-
-Kochland (2019) by Christopher Leonard | History of Koch Industries and its influence on American business. Covers seven decades of Koch Industries' growth.
 
 My Life and Work (1922) by Henry Ford with Samuel Crowther | Ford's autobiography and business philosophy. Outlines his manufacturing principles and business ideas.
 
@@ -83,11 +83,11 @@ The Fish That Ate the Whale (2012) by Rich Cohen | Biography of Sam Zemurray and
 - pop-sci -
 -------------
 
-Thinking Fast and Slow () by Daniel Kahneman
+x Thinking Fast and Slow () by Daniel Kahneman
 
-Freakonomics (2005) by Levitt and Dubner
+x Freakonomics (2005) by Levitt and Dubner
 
-When to Rob a Bank (2015) by Levitt and Dubner
+x When to Rob a Bank (2015) by Levitt and Dubner
 
 --------------------------------
 - other bios/non-fiction -
@@ -99,9 +99,9 @@ Kitchen Confidential () by Anthony Bourdain
 
 Permanent Record () by Ed Snowden
 
-Waylon Jennings
+x Waylon Jennings
 
-Johnny Cash
+x Johnny Cash
 
 ----------------------------------
 - finance and economics -
@@ -111,34 +111,34 @@ The Four Pillars of Investing () by William J. Bernstein
 
 The Intelligent Investor () by Ben Graham
 
-Keynes Hayek: The Clash That Defined Modern Economics (2011) by Nicholas Wapshott
+x Keynes Hayek: The Clash That Defined Modern Economics (2011) by Nicholas Wapshott
 
-Grand Pursuit: The Story of Economic Genius (2011) by Sylvia Nasar
+x Grand Pursuit: The Story of Economic Genius (2011) by Sylvia Nasar
 
-Parasites, Pathogens, and Progress: Diseases and Economic Development (2011) by McGuire and Coelho
+x Parasites, Pathogens, and Progress: Diseases and Economic Development (2011) by McGuire and Coelho
 
 ------------
 - fiction -
 ------------
 
-Ready Player One
+x Ready Player One
 
-Ready Player Two
+x Ready Player Two
 
 Enders Game
 
 Mycroft and Sherlock: The Empty Birdcage
 
-Neuromancer () by William Gibson
+x Neuromancer () by William Gibson
 
-makers () by Cory Doctorow
+x makers () by Cory Doctorow
 
-Red Team Blues () Cory Doctorow
+x Red Team Blues () Cory Doctorow
 
-James Moriarty. Consulting Criminal () by Andy Weir
+x James Moriarty. Consulting Criminal () by Andy Weir
 
 -------------------------
-maker reference
+- maker reference -
 -------------------------
 Makers guide to building modular systems:
 https://docs.google.com/document/d/1gU2LaqGkPCLuOm6oFMFCC_tdET1LmUB0WMUYgAmvb0w/edit
@@ -150,8 +150,8 @@ https://lcamtuf.substack.com/p/radios-how-do-they-work
 Guide to mech keyboard switches:
 https://www.theremingoat.com/blog/beginners-guide
 
----------------------
-systems reference
----------------------
+---------------------------
+- systems reference -
+---------------------------
 computer systems:
 https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
